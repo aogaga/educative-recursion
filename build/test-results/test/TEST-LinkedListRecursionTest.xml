@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LinkedListRecursionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-23T05:53:51" hostname="OgheneogagasMBP.attlocal.net" time="0.013">
+  <properties/>
+  <testcase name="testReversePrintLinkedList()" classname="LinkedListRecursionTest" time="0.013"/>
+  <system-out><![CDATA[5
+4
+3
+2
+1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
